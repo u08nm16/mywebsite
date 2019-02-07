@@ -1,0 +1,34 @@
+h1 {
+  color: white;
+  }
+body {
+  font-weight: bold;
+  font-family: courier;
+  }
+.button {
+  width: 110px;
+  background-color: lightblue;
+  color: black;
+  text-align: center;
+  border: 5px dashed black;
+  }
+  h2 {
+    color: black;
+    font-weight: bold;
+    font-family: courier;
+  }
+  li {
+    color: white;
+    font-family: courier;
+  }
+  #li3 {
+    color: rgba(0,50,150,1);
+    font-weight: bold;
+  }
+  #anti {
+    border: 2px solid lightblue;
+  }
+  .buttontwo {
+    width: 110px;
+    background-color: lightblue;
+  }
